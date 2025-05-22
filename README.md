@@ -5,3 +5,6 @@
 📫 How to reach me: LinkedIn
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love turning ideas into prototypes—and learning something new every day!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
+</p>
