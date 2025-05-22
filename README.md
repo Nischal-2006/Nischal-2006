@@ -6,5 +6,5 @@
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love turning ideas into prototypes—and learning something new every day!
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nischal-2006&theme=radical" alt="GitHub Streak"/>
 </p>
