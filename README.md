@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nischal Panthi</h1>
+<h1 align="center">नमस्ते 🙏, I'm Nischal Panthi</h1>
 <p align="center">
-  A passionate beginner Frontend Developer and UI/UX Learner from Nepal 🇳🇵
+  A passionate  Frontend Developer and UI/UX Designer from Nepal 🇳🇵
 </p>
 
 ---
 
 ### 💡 About Me
-- 🔭 I’m currently working on **a food delivery app UI in Figma**
-- 🌱 I’m learning **JavaScript**, **HTML/CSS**, and **UI/UX design**
+
+- 🌱 I’m learning  **HTML/CSS**,**JavaScript** and **UI/UX design/Figma**
 - 🎯 Goal: To build real-world projects and improve everyday
-- 💬 Ask me about: **Figma**, **basic HTML/CSS**, and **how to get started**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | nischal1.815421@bumc.tu.edu.np
+- 💬 Ask me about: **Figma**, **basic HTML/CSS/JS**, and **how to get started**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nischal-panthi/?originalSubdomain=np) 
 - ⚡ Fun fact: I love turning ideas into prototypes and learning something new every day!
 
 ---
@@ -36,12 +36,7 @@
 
 ---
 
-### 📌 Projects
-- 🎨 [MY-Portfolio](https://my-portfolio-rho-plum.vercel.app) 
-- 📦 [Spotify Clone](link-to-repo-if-public) – HTML/CSS practice clone
-- 🍔 Food Delivery App UI – WIP in Figma
 
----
 
 ### 🤝 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nischal-panthi/?originalSubdomain=np)
@@ -50,4 +45,7 @@
 ---
 
 _“Keep building. Keep learning.”_
+
+💡 **"I may still be learning, but I'm building something every day. From design to code, I turn ideas into reality — one project, one lesson, one win at a time."**
+
 
